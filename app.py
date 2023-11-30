@@ -6,7 +6,7 @@ from time import sleep
 # Site: https://guitarflash.com/?lg=pt
 # Musica indicada: Somewhere I Belong por Linkin Park - Modo facil
 
-# Verificar se há um botão com a cor correspondente dentro do criculo daquela cor
+# Verificar se há um botão com a cor correspondente dentro do circulo daquela cor
 
 coordenada_botao_verde = 724,866
 coordenada_botao_vermelho = 830,872
